@@ -15,14 +15,5 @@
 ## Check out our [webpage](https://isie-2023-creativeabstractcompetition.github.io/)
 ## Read the official competition [documents](documents)
 
-## Read our [flyer](ISIE2023_CreativeAbstractCompetition.pdf)
-<img src="ISIE2023_CreativeAbstractCompetition.svg" alt="Creative abstract competition flyer" width="1000">
-
-
-
-
-
-
-
-
-v
+## Read our [flyer](Flyer_ISIE2023_CreativeAbstractCompetition.pdf)
+<img src="Flyer_ISIE2023_CreativeAbstractCompetition.svg" alt="Creative abstract competition flyer" width="1000">  
